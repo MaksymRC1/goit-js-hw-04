@@ -1,4 +1,4 @@
-function calculateAverage(days) {
+function calcAverageCalories(days) {
   if (days.length === 0) {
     return 0;
   }
